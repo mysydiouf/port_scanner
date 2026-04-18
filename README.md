@@ -54,4 +54,4 @@ A utiliser uniquement sur des machines qu'on a le droit de scanner. Scanner des 
 
 ## Auteur
 
-Sokhna Oumou Diouf - L2 Informatique, Sorbonne Université
+Sokhna Oumou Diouf 
